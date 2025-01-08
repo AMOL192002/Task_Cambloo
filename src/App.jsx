@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Navbar from "./components/Navbar";
-import "./app.css";
+import "./App.css";
 import IntroSection from "./components/introSection";
 import TrainCloneSection from "./components/TrainCloneSection";
 import ImageBoxSection from  "./components/ImageBoxSection";
