@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Navbar from "./components/Navbar";
 import "./app.css";
-import IntroSection from "./components/introsection";
+import IntroSection from "./components/introSection";
 import TrainCloneSection from "./components/TrainCloneSection";
 import ImageBoxSection from  "./components/ImageBoxSection";
 import StepsSection from "./components/StepsSection";
