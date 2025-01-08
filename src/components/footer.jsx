@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFacebook, faTwitter, faYoutube, faLinkedin, faDiscord } from "@fortawesome/free-brands-svg-icons";
-import "./Footer.css";
+import "./footer.css";
 import logo from "../assets/com-icon.png";
 import qrCode from "../assets/qr-code.png"; // Import QR code image
 import appStore from "../assets/app-store.png"; // Import App Store image
