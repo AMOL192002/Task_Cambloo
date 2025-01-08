@@ -1,13 +1,13 @@
 import React, { Component } from "react";
 import Navbar from "./components/Navbar";
 import "./App.css";
-import IntroSection from "./components/introSection";
+import IntroSection from "./components/IntroSection";
 import TrainCloneSection from "./components/TrainCloneSection";
 import ImageBoxSection from  "./components/ImageBoxSection";
 import StepsSection from "./components/StepsSection";
 import SuperchargeSection from "./components/SuperchargeSection";
 import Footer from "./components/footer";
-import FinalSection from "./components/finalsection";
+import FinalSection from "./components/FinalSection";
 
 class App extends Component {
   render() {
