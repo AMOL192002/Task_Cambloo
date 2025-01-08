@@ -1,5 +1,5 @@
 import React from "react";
-import "./TrainCloneSection.css";
+import "./TraincloneSection.css";
 
 const TrainCloneSection = () => {
   return (
